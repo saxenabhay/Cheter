@@ -1,7 +1,6 @@
 # Cheter how to make an online html previewer
 preview your HTML online . Get the source code here to develop yours too and give us the link of your online priviewer so that we can to get inpired from that and also share your link with others.
+-Simple example of local storage
+-Live HTML, CSS and JS playground
 
-
-visit the actual site hosted on <a href="https://abhay-s.github.io/cheter">abhay-s.github.io/cheter</a>
-
-to view all projects by me , visit <a href="https://abhay-s.github.io">abhay-s.github.io</a>
+I was not even 14 yet so don't judge ;P
