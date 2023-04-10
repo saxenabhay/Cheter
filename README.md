@@ -7,7 +7,7 @@ preview your HTML online . Get the source code here to develop yours too and giv
 <br>https://abhay-s.github.io/cheter/
 <br>
 <br>
-I was not even 14 yet so don't judge ;P
+Made in 2016
 
 
 Feel free to use this wherever you want to :D
